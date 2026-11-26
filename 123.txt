@@ -1,0 +1,2 @@
+https://cdn.jsdelivr.net/npm/dsh-plugin-catalog/index.json
+https://cdn.dsh.so/market/index.json
